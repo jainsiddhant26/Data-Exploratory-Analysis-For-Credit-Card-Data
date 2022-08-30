@@ -1,4 +1,4 @@
-## Python-Credit-Card-Case-Study
+## Data Exploratory Analysis For Credit Card Data
 
 ###### ANALYTICS IN CREDIT CARD INDUSTRY:
 Analytics has penetrated every industry owing to the various technology platforms that
